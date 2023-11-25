@@ -1,0 +1,61 @@
+
+            h1{
+
+                text-align: center;
+                text-decoration-style:double;
+               
+                
+            }
+            h2 {
+                background-color: powderblue ;
+                text-decoration-line: line-through;
+               
+                text-decoration: underline;
+                text-decoration-thickness:15%;
+                font-weight: bold;
+            }
+            .p1{
+                float: right;
+                text-indent: 3cm;
+                text-transform: capitalize;
+                color: red;
+                
+               
+                
+                
+            }
+            .p2{
+                float: left;
+                text-indent: 3cm;
+                text-transform: capitalize;
+                color: grey;
+            }
+            ol{
+                text-shadow: 1px 1px; 
+            }
+            ul{
+                 list-style-image: url('ppic.jpg');
+                list-style-position:outside;
+                
+               
+
+            }
+            body{
+                font-family:Verdana, Geneva, Tahoma, sans-serif;
+                font-style:oblique;
+                font-size: 20px;
+               
+            }
+            h3{
+                color:blue;
+                
+            }
+            li{
+                display: inline;
+            }
+            a:visited{
+                color:green;
+            }
+            a:hover{
+                color:grey;
+            }
